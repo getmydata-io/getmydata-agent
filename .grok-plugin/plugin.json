@@ -1,0 +1,17 @@
+{
+  "name": "getmydata",
+  "version": "1.0.0",
+  "description": "Get public web data as rows (JSON, CSV or Excel) from your AI agent. Free preview of up to 10 rows. Full datasets are a separate paid service on getmydata.io, quoted per request before you decide.",
+  "author": {
+    "name": "GetMyData",
+    "email": "support@getmydata.io",
+    "url": "https://getmydata.io"
+  },
+  "homepage": "https://getmydata.io",
+  "repository": "https://github.com/getmydata-io/getmydata-agent",
+  "license": "Apache-2.0",
+  "keywords": [
+    "getmydata",
+    "getmydata.io"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "getmydata",
+  "owner": {
+    "name": "GetMyData",
+    "email": "support@getmydata.io"
+  },
+  "metadata": {
+    "description": "GetMyData plugin for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "getmydata",
+      "source": "./",
+      "description": "Get public web data as rows (JSON, CSV or Excel) from your AI agent. Free preview of up to 10 rows. Full datasets are a separate paid service on getmydata.io, quoted per request before you decide."
+    }
+  ]
+}
