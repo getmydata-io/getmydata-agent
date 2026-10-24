@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "getmydata": {
+      "httpUrl": "https://getmydata.io/mcp"
+    }
+  }
+}

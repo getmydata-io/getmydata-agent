@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "getmydata": {
+      "type": "http",
+      "url": "https://getmydata.io/mcp"
+    }
+  }
+}
